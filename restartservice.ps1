@@ -1,3 +1,7 @@
+##### Advanced Windows Service Restart Script
+##### Written by Brandon E.M. Savage
+##### Version 1.0
+##### 2025-11-06
 param(
 [string]$service
 )
