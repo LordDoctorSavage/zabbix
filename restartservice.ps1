@@ -1,5 +1,5 @@
 ##### Advanced Windows Service Restart Script
-##### Written by Brandon E.M. Savage
+##### Written by Brandon E.M. Savage - brandon at brandonsavage . com
 ##### Version 1.0
 ##### 2025-11-06
 param(
